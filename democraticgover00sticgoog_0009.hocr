@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./democraticgover00sticgoog_0009.png"; bbox 0 0 2842 4325; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 280 608 1204 733">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 280 608 1204 733">
+     <span class='ocr_line' id='line_1_1' title="bbox 280 608 1204 733; baseline 0.002 -4"><span class='ocrx_word' id='word_1_1' title='bbox 280 609 700 731; x_wconf 75' lang='lat' dir='ltr'><strong>DEMOCRATIC</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 753 608 1204 733; x_wconf 79' lang='lat' dir='ltr'><strong>GOVERNMENT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 417 1211 1073 1295">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 417 1211 1073 1295">
+     <span class='ocr_line' id='line_1_2' title="bbox 417 1211 1073 1295; baseline 0.006 -4"><span class='ocrx_word' id='word_1_3' title='bbox 417 1216 459 1291; x_wconf 89' lang='lat' dir='ltr'><strong><em>A</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 486 1212 692 1294; x_wconf 74' lang='lat' dir='ltr'><em>SPUDY</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 707 1212 788 1293; x_wconf 77' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 803 1211 1073 1295; x_wconf 76' lang='lat' dir='ltr'><em>POLITIOS</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 548 2081 936 2204">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 548 2081 936 2204">
+     <span class='ocr_line' id='line_1_3' title="bbox 548 2081 936 2204; baseline 0.005 -59"><span class='ocrx_word' id='word_1_7' title='bbox 548 2081 708 2147; x_wconf 80' lang='lat' dir='ltr'><strong>ALBERT</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 730 2082 936 2204; x_wconf 50' lang='lat' dir='ltr'><strong>{mm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 618 3391 929 3454">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 618 3391 929 3454">
+     <span class='ocr_line' id='line_1_4' title="bbox 618 3391 929 3454; baseline 0.026 -8"><span class='ocrx_word' id='word_1_9' title='bbox 618 3391 711 3446; x_wconf 70' lang='lat' dir='ltr'><strong>an</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 743 3393 855 3447; x_wconf 72' lang='lat' dir='ltr'><strong>Yonx</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 925 3451 929 3454; x_wconf 82' lang='grc'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1426 4325">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1426 4325">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1426 4325; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1426 4325; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
